@@ -1,6 +1,6 @@
 > - 👋 Hi, I’m **Shatha Alrayyani**.
 > -  I’m interested in ***Data Analysis***.
-> -  I’m currently learning **software Devalopment** ***(PYTHON)***.
+> -  I’m currently learning **software Development** ***(PYTHON)***.
 
 <!---
 ShathaAlrayyani/ShathaAlrayyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
